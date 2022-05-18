@@ -5,7 +5,6 @@ I'm a Computer Science student who's interested in a range of fields applicable 
 ### What I'm up to
 
 - 👨🏻‍💻 Studying [BSc(Hons) in Computer Science at the University of Bath](https://www.bath.ac.uk/courses/undergraduate-2022/computer-science/bsc-computer-science/)
-- 🛠 Working on our [_Experimental Systems Project_](https://www.bath.ac.uk/catalogues/2021-2022/cm/CM20314.html)
 - 🎮 Playing Mario Kart 8, and Spiderman: Miles Morales
 - 🌟 I love compilers, implementations of programming languages, machine learning and more
 
