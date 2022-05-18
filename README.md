@@ -6,7 +6,7 @@ I'm a Computer Science student who's interested in a range of fields applicable 
 
 - 👨🏻‍💻 Studying [BSc(Hons) in Computer Science at the University of Bath](https://www.bath.ac.uk/courses/undergraduate-2022/computer-science/bsc-computer-science/)
 - 🎮 Playing Mario Kart 8, and Spiderman: Miles Morales
-- 🌟 I love compilers, implementations of programming languages, machine learning and more
+- 🌟 I love compilers, programming languages, machine learning and more
 
 Feel free to have a look at some of my public repositories _(my best work is private, but you may ask to see it)_
 
