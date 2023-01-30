@@ -6,10 +6,9 @@ I'm a Computer Science student who's interested in a range of fields applicable 
 
 - 👨🏻‍💻 Studying [BSc(Hons) in Computer Science at the University of Bath](https://www.bath.ac.uk/courses/undergraduate-2022/computer-science/bsc-computer-science/)
 - 💻 Working for a year on placement at IBM
-- 🎮 Playing Mario Kart 8
-- 🌟 I love compilers, programming languages, machine learning and more
+- 🌟 I love programming languages, machine learning and more
 
-Feel free to have a look at some of my public repositories _(my best work is private, but you may ask to see it)_
+Feel free to have a look at some of my public repositories _(my best work is still private)_
 
 
 <h3 align="left">Languages and Tools:</h3>
