@@ -5,8 +5,7 @@ I'm a Computer Science student who's interested in a range of fields applicable 
 ### What I'm up to
 
 - 👨🏻‍💻 Studying [BSc(Hons) in Computer Science at the University of Bath](https://www.bath.ac.uk/courses/undergraduate-2022/computer-science/bsc-computer-science/)
-- 💻 Working for a year on placement at IBM
-- 🌟 I love programming languages, machine learning and more
+- 🌟 High-performance computing, low-level programming, and machine learning
 
 Feel free to have a look at some of my public repositories _(my best work is still private)_
 
