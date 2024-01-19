@@ -45,7 +45,7 @@ Implemented RainbowDQN with CUDA acceleration (via PyTorch) to train an agent to
 
 ### Advanced Raytracer
 
-Implemented a raytracer with photon mapping in C++. [(repository)](https://github.com/jakedves/advanced-raytracer/tree/main)
+Implemented a raytracer from scratch with photon mapping in C++. [(repository)](https://github.com/jakedves/advanced-raytracer/tree/main)
 
 <p align="center">
   <img src="https://github.com/jakedves/raytracing-coursework/assets/75232368/217beff7-61fc-4363-817e-da2755a192ba" alt="Description" width="400">
