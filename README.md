@@ -43,6 +43,8 @@ Implemented RainbowDQN with CUDA acceleration (via PyTorch) to train an agent to
   </table>
 </div>
 
+Achieved a grade of 92% (Very-high first)
+
 ### Advanced Raytracer
 
 Implemented a raytracer from scratch with photon mapping in C++. [(repository)](https://github.com/jakedves/advanced-raytracer/tree/main)
@@ -52,6 +54,8 @@ Implemented a raytracer from scratch with photon mapping in C++. [(repository)](
 </p>
 <p align="center">Final render with photon mapping</p>
 </div>
+
+Achieved a grade of 99% (Very-high first)
 
 <!-- images come from: https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 ## Languages and Tools
