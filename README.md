@@ -1,12 +1,20 @@
-## Jake Davies 👨🏻‍💻 
+# Jake Davies 👨🏻‍💻 
 
 I'm a Computer Science student who's interested in a range of fields applicable to software engineering, particularly interested in computer architecture, high performance, and deep learning. Knowledgable about parallel systems, including CPU and GPU architecture.
 
-## Recent Projects
+# Recent Projects
 
-### Deep Reinforcement Learning for NES Super Mario Bros.
+## GPU Relaxation with Metal Compute
 
-Implemented RainbowDQN with CUDA acceleration (via PyTorch) to train an agent to play Super Mario Bros. [(repository)](https://github.com/jakedves/deep-reinforcement-learning)
+An implementation of the relaxation technique for solving differential equations using the Metal Compute API for Apple GPUs. 
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jakedves&repo=relaxation-metal&theme=tokyonight)](https://github.com/jakedves/relaxation-metal)
+
+## Deep Reinforcement Learning for NES Super Mario Bros.
+
+Implemented RainbowDQN with CUDA acceleration (via PyTorch) to train an agent to play Super Mario Bros, achieving the highest grade ever on the unit with 92%.
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jakedves&repo=deep-reinforcement-learning&theme=tokyonight)](https://github.com/jakedves/deep-reinforcement-learning)
 
 <div align="center">
   <table>
@@ -43,19 +51,17 @@ Implemented RainbowDQN with CUDA acceleration (via PyTorch) to train an agent to
   </table>
 </div>
 
-Achieved a grade of 92% (Very-high first)
+## Advanced Raytracer
 
-### Advanced Raytracer
+Raytracer built from scratch in C++, featuring parallelism, bounding volumes, global illumination (photon mapping), and more for a university coursework. Achieved an almost-perfect grade of 99%.
 
-Implemented a raytracer from scratch with photon mapping in C++. [(repository)](https://github.com/jakedves/advanced-raytracer/tree/main)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jakedves&repo=advanced-raytracer&theme=tokyonight)](https://github.com/jakedves/advanced-raytracer)
 
 <p align="center">
   <img src="https://github.com/jakedves/raytracing-coursework/assets/75232368/217beff7-61fc-4363-817e-da2755a192ba" alt="Description" width="400">
 </p>
 <p align="center">Final render with photon mapping</p>
 </div>
-
-Achieved a grade of 99% (Very-high first)
 
 <!-- images come from: https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 ## Languages and Tools
