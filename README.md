@@ -1,6 +1,6 @@
 # Jake Davies 👨🏻‍💻 
 
-I'm a Computer Science student who's interested in a range of fields applicable to software engineering, particularly interested in computer architecture, high performance computing, and deep learning. Knowledgable about parallel systems, including CPU and GPU architectures.
+I'm a PhD student who's interested in computer architecture, high performance computing, and deep learning. Knowledgable about parallel systems, including CPU and GPU architectures, and my work focuses on the compilation stack for RISC-V accelerators. 
 
 # Recent Projects
 
