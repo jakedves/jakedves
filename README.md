@@ -59,7 +59,7 @@ Raytracer built from scratch in C++, featuring parallelism, bounding volumes, gl
 
 <!-- images come from: https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 ## Languages and Tools
-I'm pretty open to learning cool and modern languages, like Rust or Go, for now I'm very comfortable with:
+I'm pretty happy using any languages, with my main experience being in:
 
 - C, C++
 - Python
