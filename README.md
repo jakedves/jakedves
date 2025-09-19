@@ -4,15 +4,9 @@ I'm a PhD student who's interested in computer architecture, high performance co
 
 # Recent Projects
 
-## GPU Relaxation with Metal Compute
-
-An implementation of the relaxation technique for solving differential equations using the Metal Compute API for Apple GPUs. 
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jakedves&repo=relaxation-metal&theme=tokyonight)](https://github.com/jakedves/relaxation-metal)
-
 ## Deep Reinforcement Learning for NES Super Mario Bros.
 
-Implemented RainbowDQN with CUDA acceleration (via PyTorch) to train an agent to play Super Mario Bros, achieving the highest grade ever on the unit with 92%.
+Implemented RainbowDQN with CUDA acceleration (via PyTorch) to train an agent to play Super Mario Bros.
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jakedves&repo=deep-reinforcement-learning&theme=tokyonight)](https://github.com/jakedves/deep-reinforcement-learning)
 
@@ -53,7 +47,7 @@ Implemented RainbowDQN with CUDA acceleration (via PyTorch) to train an agent to
 
 ## Advanced Raytracer
 
-Raytracer built from scratch in C++, featuring parallelism, bounding volumes, global illumination (photon mapping), and more for a university coursework. Achieved an almost-perfect grade of 99%.
+Raytracer built from scratch in C++, featuring parallelism, bounding volumes, global illumination (photon mapping).
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jakedves&repo=advanced-raytracer&theme=tokyonight)](https://github.com/jakedves/advanced-raytracer)
 
