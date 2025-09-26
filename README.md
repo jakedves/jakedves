@@ -1,6 +1,6 @@
 # Jake Davies 👨🏻‍💻 
 
-I'm a PhD student who's interested in computer architecture, high performance computing, and deep learning. Knowledgable about parallel systems, including CPU and GPU architectures, and my work focuses on the compilation stack for RISC-V accelerators. 
+I'm a PhD student who's interested in computer architecture, high performance computing, and deep learning. Interested in parallel architectures, including CPUs, GPUs, and accelerators. My work currently focuses on compiling for the RISC-V-based [Tenstorrent accelerators](https://tenstorrent.com/hardware/blackhole).
 
 <br>
 
