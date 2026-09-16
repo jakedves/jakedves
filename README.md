@@ -1,6 +1,6 @@
 # Jake Davies 👨🏻‍💻 
 
-I'm a PhD student who's interested in computer architecture, high performance computing, and deep learning. Interested in parallel architectures, including CPUs, GPUs, and accelerators. My work currently focuses on compiling for the RISC-V-based [Tenstorrent accelerators](https://tenstorrent.com/hardware/blackhole).
+I'm a PhD student researching compilers for novel architectures, with the goal of supporting proven HPC programming models on architectures which are drastically different to the CPUs and GPUs of today. So far, I have brought C/C++/Fortran with OpenMP/OpenACC support to the RISC-V-based [Tenstorrent machine learning accelerators](https://tenstorrent.com/hardware/blackhole) and am now investigating what is required for this work to be shared across other accelerators, aiming for some kind of unifying compiler stack.
 
 <br>
 
